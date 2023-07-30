@@ -2,18 +2,6 @@
 
 #  Description: A program to search for a list of words within a grid of letters
 
-#  Student Name: Natalie Nguyen
-
-#  Student UT EID: ntn687
-
-#  Partner Name: Ethan Harris
-
-#  Partner UT EID: ejh2947
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 52038
-
 #  Date Created: 01/17/2023
 
 #  Date Last Modified: 01/20/2023
